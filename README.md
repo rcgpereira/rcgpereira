@@ -1,4 +1,4 @@
-## Hello! My name is Renato !
+# Hello! My name is Renato
 ## Welcome to my Github profile
 
 - I'm currently studying at Estacio University and Alura
