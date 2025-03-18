@@ -1,11 +1,19 @@
 # Greetings!
 ## My name is Renato
 
-- I'm currently studying at Estacio University and Alura
-- I'm currently learning javascript and python 
+- Software Analyst Student at Estacio de Sá University
+- Passionate about programming and games
 - My goal is to become a dev 🚀🚀🚀
 
-  ![ClipWindowsGIF (3)](https://github.com/user-attachments/assets/b1601476-a2e2-4b8a-8dc7-acef06eb8f86)
+<p align="left">
+  <a href="#" title="Python">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&link=LINK-DO-SEU-GMAIL" alt="Python"/></a>
+  <a href="#" title="JavaScript">
+  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square&link=LINK-DO-SEU-GMAIL" alt="Python"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatocgpereira/" alt="LinkedIn"/></a>
+</p>
+  
 
 
 <!--
