@@ -1,5 +1,5 @@
 ### Greetings, I'm Renato! ✌️
-- Software Engineering Student at the Estacio de Sá University.
+- System Analyst and Developer Student at Estacio de Sá University.
 - Passionate about programming, machine learning, and games.
 
 ## Languages and Tools 💻
