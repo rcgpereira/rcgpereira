@@ -1,5 +1,5 @@
-# Hello! My name is Renato
-## Welcome to my Github profile
+# Greetings!
+## My name is Renato
 
 - I'm currently studying at Estacio University and Alura
 - I'm currently learning javascript and python 
