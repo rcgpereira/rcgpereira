@@ -6,16 +6,19 @@
 <div style="display: inline">
   
   <!-- <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> -->
-  <img align="center" alt="javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" />
-  <img align="center" alt="csharp" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=unity&logoColor=white" />
-  
+  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/CSharp-512db4?style=for-the-badge&logo=.net&logoColor=white" />
+
 </div><br/>
 
 
 ## Reach me 📫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatocgpereira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white)](https://www.linkedin.com/in/renatocgpereira/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renatocgpereira@gmail.com)](mailto:renatocgpereira@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rfrango/) 
-[![Gmail](https://img.shields.io/badge/-renatocgpereira@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renatocgpereira@gmail.com)](mailto:renatocgpereira@gmail.com)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/r.frango)
   
 <!--
