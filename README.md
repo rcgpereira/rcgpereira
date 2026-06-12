@@ -5,7 +5,7 @@
 ## Languages and Tools 💻
 <div style="display: inline">
   
-  <!--><img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><!-->
+  <!-- <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> -->
   <img align="center" alt="javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" />
   <img align="center" alt="csharp" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=unity&logoColor=white" />
   
